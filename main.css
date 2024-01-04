@@ -8,17 +8,17 @@
 ================================================== */
 
 @font-face {
-	font-family: NeueHaas;
+	font-family: Trirong;
 	src: url(../fonts/NHaasGroteskTXPro-55Rg.ttf);
 }
 
 @font-face {
-	font-family: NeueHaasMedium;
+	font-family: TrirongMedium;
 	src: url(../fonts/NHaasGroteskTXPro-65Md.ttf);
 }
 
 /* @font-face {
-	font-family: NeueHaasMedium;
+	font-family: TrirongMedium;
 	src: url(../fonts/NHaasGroteskTXPro-75Bd.ttf);
 } */
 
@@ -94,7 +94,7 @@ body.day a {
 
 #rdio-psa {
 	color: #8A898C;
-	font-family: NeueHaas;
+	font-family: Trirong;
 	font-size: 12px;
 	letter-spacing: 0.75px;
 	line-height: 20px;
