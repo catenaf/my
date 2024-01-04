@@ -112,7 +112,7 @@ body.day a {
 body.night {	
 	background-color: #221F26;
 	color: #C8C8C9;
-	font-family: NeueHaas;
+	font-family: Trirong;
 	font-size: 16px;
 	line-height: 24px;
 }
@@ -120,14 +120,14 @@ body.night {
 body.day {
 	background-color: #F6F6F7;
 	color: #403E43;
-	font-family: NeueHaas;
+	font-family: Trirong;
 	font-size: 16px;
 	line-height: 24px;
 }
 
 footer {
 	color: #9F9EA1;
-	font-family: NeueHaas;
+	font-family: Trirong;
 	font-size: 12px;
 	letter-spacing: 1px;
 	line-height: 20px;
@@ -137,7 +137,7 @@ footer {
 
 body.night h1 {
 	color: #fff;
-	font-family: NeueHaasMedium;
+	font-family: Trirong;
 	font-size: 20px;
 	letter-spacing: .25px;
 	line-height: 28px;
@@ -146,7 +146,7 @@ body.night h1 {
 
 body.day h1 {
 	color: #403E43;
-	font-family: NeueHaasMedium;
+	font-family: Trirong;
 	font-size: 20px;
 	letter-spacing: .25px;
 	line-height: 28px;
@@ -155,7 +155,7 @@ body.day h1 {
 
 body.night h2 {
 	color: #fff;
-	font-family: NeueHaasMedium;
+	font-family: Trirong;
 	font-size: 16px;
 	letter-spacing: .25px;
 	line-height: 24px;
@@ -164,7 +164,7 @@ body.night h2 {
 
 body.day h2 {
 	color: #403E43;
-	font-family: NeueHaasMedium;
+	font-family: Trirong;
 	font-size: 16px;
 	letter-spacing: .25px;
 	line-height: 24px;
@@ -173,7 +173,7 @@ body.day h2 {
 
 body.night h3 {
 	color: #C8C8C9;
-	font-family: NeueHaas;
+	font-family: Trirong;
 	font-size: 16px;
 	letter-spacing: 0.35px;
 	line-height: 24px;
@@ -182,7 +182,7 @@ body.night h3 {
 
 body.day h3 {
 	color: #403E43;
-	font-family: NeueHaas;
+	font-family: Trirong;
 	font-size: 16px;
 	letter-spacing: 0.35px;
 	line-height: 24px;
@@ -191,7 +191,7 @@ body.day h3 {
 
 body.night h4 {
 	color: #8A898C;
-	font-family: NeueHaas;
+	font-family: Trirong;
 	font-size: 12px;
 	letter-spacing: 1.5px;
 	line-height: 20px;
@@ -201,7 +201,7 @@ body.night h4 {
 
 body.day h4 {
 	color: #9F9EA1;
-	font-family: NeueHaas;
+	font-family: Trirong;
 	font-size: 12px;
 	letter-spacing: 1.5px;
 	line-height: 20px;
