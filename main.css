@@ -142,6 +142,7 @@ body.night h1 {
 	letter-spacing: .25px;
 	line-height: 28px;
 	padding-bottom: 48px;
+	font-weight: 300;
 }
 
 body.day h1 {
