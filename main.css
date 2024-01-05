@@ -32,12 +32,14 @@ body.night a {
 	color: #fff;
 	font-family: 'Roboto medium 500', sans-serif;
 	text-decoration: none;
+	font-weight: bolder;
 }
 
 body.day a {
 	color: #403E43;
 	font-family: 'Roboto medium 500', sans-serif;
 	text-decoration: none;
+	font-weight: bolder;
 }
 
 .underline {
