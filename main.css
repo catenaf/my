@@ -137,22 +137,22 @@ footer {
 
 body.night h1 {
 	color: #fff;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto Medium 500', sans-serif;
 	font-size: 20px;
 	letter-spacing: .25px;
 	line-height: 28px;
 	padding-bottom: 48px;
-	font-weight: bolder;
+	font-weight: bold;
 }
 
 body.day h1 {
 	color: #403E43;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto Medium 500', sans-serif;
 	font-size: 20px;
 	letter-spacing: .25px;
 	line-height: 28px;
 	padding-bottom: 48px;
-	font-weight: bolder;
+	font-weight: bold;
 }
 
 body.night h2 {
@@ -193,23 +193,23 @@ body.day h3 {
 
 body.night h4 {
 	color: #8A898C;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto Medium 500', sans-serif;
 	font-size: 12px;
 	letter-spacing: 1.5px;
 	line-height: 20px;
 	margin-top: 0px;
 	text-transform: uppercase;
-	font-weight: bolder;
+	font-weight: bold;
 }
 
 body.day h4 {
 	color: #9F9EA1;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto Medium 500', sans-serif;
 	font-size: 12px;
 	letter-spacing: 1.5px;
 	line-height: 20px;
 	margin-top: 0px;
-	font-weight: bolder;
+	font-weight: bold;
 }
 
 body.night #moon {
