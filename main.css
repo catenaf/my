@@ -216,7 +216,7 @@ body.day h4 {
 
 body.night #moon {
 	cursor: pointer;
-	width: 20px;
+	width: 60px;
 }
 
 body.day #moon {
@@ -229,7 +229,7 @@ body.night #sun {
 
 body.day #sun {
 	cursor: pointer;
-	width: 20px;
+	width: 60px;
 }
 
 .spacer48 {
