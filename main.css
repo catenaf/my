@@ -120,8 +120,8 @@ body.night {
 }
 
 body.day {
-	background-color: #F6F6F7;
-	color: #C8DCC4;
+	background-color: #C8DCC4;
+	color: #ffffff;
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	line-height: 24px;
